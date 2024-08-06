@@ -406,7 +406,7 @@ a:hover {
 .page-header {
     padding-top: 12rem;
     padding-bottom: 2rem;    
-    background: linear-gradient(to right, rgba(2, 2, 2, 0.978), #030434d4), url(./img/dais.jpg) top center no-repeat; 
+    background: linear-gradient(to right, rgba(2, 2, 2, 0.978), #030434d4), url(../img/still-life-books-versus-technology.jpg) top center no-repeat; 
     background-size: cover;
    
 }
